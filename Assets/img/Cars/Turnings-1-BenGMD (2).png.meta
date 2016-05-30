@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 7e18192828ae05c4dbcc7fe1d0d6961f
+timeCreated: 1464577888
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turnings-1-BenGMD (2)_0
+    21300002: Turnings-1-BenGMD (2)_1
+    21300004: Turnings-1-BenGMD (2)_2
+    21300006: Turnings-1-BenGMD (2)_3
+    21300008: Turnings-1-BenGMD (2)_4
+    21300010: Turnings-1-BenGMD (2)_5
+    21300012: Turnings-1-BenGMD (2)_6
+    21300014: Turnings-1-BenGMD (2)_7
+    21300016: Turnings-1-BenGMD (2)_8
+    21300018: Turnings-1-BenGMD (2)_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Turnings-1-BenGMD (2)_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1997
+        width: 134
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.800804, y: 116.44238}
+        - {x: -54.800804, y: 102.44238}
+        - {x: -54.800804, y: -39.557617}
+        - {x: -38.800804, y: -114.55762}
+        - {x: 43.199196, y: -114.55762}
+        - {x: 56.199196, y: -71.55762}
+        - {x: 56.199196, y: 100.44238}
+        - {x: 35.199196, y: 116.44238}
+    - name: Turnings-1-BenGMD (2)_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1997
+        width: 136
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.18878, y: 116.44238}
+        - {x: -34.81122, y: 116.44238}
+        - {x: -55.81122, y: 74.44238}
+        - {x: -55.81122, y: -96.55762}
+        - {x: -45.81122, y: -113.55762}
+        - {x: -35.81122, y: -114.55762}
+        - {x: 26.188782, y: -114.55762}
+        - {x: 42.18878, y: -106.55762}
+        - {x: 56.18878, y: -4.557617}
+        - {x: 56.18878, y: 109.44238}
+    - name: Turnings-1-BenGMD (2)_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2001
+        width: 158
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.864014, y: 113.71912}
+        - {x: -64.86401, y: 69.71912}
+        - {x: -64.86401, y: -113.28088}
+        - {x: 15.135986, y: -113.28088}
+        - {x: 65.13599, y: -15.280884}
+        - {x: 65.13599, y: 96.71912}
+        - {x: 39.135986, y: 113.71912}
+    - name: Turnings-1-BenGMD (2)_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1995
+        width: 176
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.394409, y: 112.303955}
+        - {x: -19.39441, y: 103.303955}
+        - {x: -50.39441, y: 49.303955}
+        - {x: -72.39441, y: -54.696045}
+        - {x: -72.39441, y: -92.696045}
+        - {x: -64.39441, y: -111.696045}
+        - {x: 13.605591, y: -111.696045}
+        - {x: 72.60559, y: -8.696045}
+        - {x: 72.60559, y: 112.303955}
+    - name: Turnings-1-BenGMD (2)_4
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2002
+        width: 188
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.501587, y: 110.53833}
+        - {x: -19.498413, y: 110.53833}
+        - {x: -53.498413, y: 66.53833}
+        - {x: -77.49841, y: -27.46167}
+        - {x: -77.49841, y: -97.46167}
+        - {x: -70.49841, y: -106.46167}
+        - {x: -58.498413, y: -110.46167}
+        - {x: 16.501587, y: -110.46167}
+        - {x: 77.50159, y: 34.53833}
+        - {x: 77.50159, y: 96.53833}
+        - {x: 67.50159, y: 108.53833}
+    - name: Turnings-1-BenGMD (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2001
+        width: 177
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.294434, y: 112.21912}
+        - {x: -71.29443, y: 59.219116}
+        - {x: -72.29443, y: 49.219116}
+        - {x: -72.29443, y: -87.78088}
+        - {x: -51.294434, y: -111.78088}
+        - {x: 11.705566, y: -111.78088}
+        - {x: 27.705566, y: -105.78088}
+        - {x: 73.70557, y: 29.219116}
+        - {x: 73.70557, y: 88.21912}
+        - {x: 62.705566, y: 112.21912}
+    - name: Turnings-1-BenGMD (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2002
+        width: 159
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.73999, y: 113.53833}
+        - {x: -39.26001, y: 113.53833}
+        - {x: -65.26001, y: -5.46167}
+        - {x: -65.26001, y: -101.46167}
+        - {x: -46.26001, y: -113.46167}
+        - {x: 4.73999, y: -113.46167}
+        - {x: 14.73999, y: -108.46167}
+        - {x: 37.73999, y: -99.46167}
+        - {x: 65.73999, y: 12.53833}
+        - {x: 65.73999, y: 109.53833}
+    - name: Turnings-1-BenGMD (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2002
+        width: 137
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.493652, y: 115.03833}
+        - {x: -48.493652, y: 110.03833}
+        - {x: -56.493652, y: 50.03833}
+        - {x: -56.493652, y: -114.96167}
+        - {x: 17.506348, y: -114.96167}
+        - {x: 56.506348, y: -68.96167}
+        - {x: 56.506348, y: 103.03833}
+        - {x: 29.506348, y: 115.03833}
+    - name: Turnings-1-BenGMD (2)_8
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2002
+        width: 137
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.6344, y: 115.03833}
+        - {x: -35.3656, y: 115.03833}
+        - {x: -56.3656, y: 102.03833}
+        - {x: -56.3656, y: -5.96167}
+        - {x: -44.3656, y: -100.96167}
+        - {x: -18.3656, y: -114.96167}
+        - {x: 56.6344, y: -114.96167}
+        - {x: 56.6344, y: 76.03833}
+        - {x: 33.6344, y: 109.03833}
+    - name: Turnings-1-BenGMD (2)_9
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2002
+        width: 137
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.711182, y: 115.03833}
+        - {x: -26.288818, y: 115.03833}
+        - {x: -48.28882, y: 104.03833}
+        - {x: -56.28882, y: 84.03833}
+        - {x: -56.28882, y: -50.96167}
+        - {x: -42.28882, y: -114.96167}
+        - {x: 40.71118, y: -114.96167}
+        - {x: 56.71118, y: -53.96167}
+        - {x: 56.71118, y: 83.03833}
+        - {x: 45.71118, y: 107.03833}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
